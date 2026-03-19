@@ -1,0 +1,12 @@
+# 依赖文件夹（必加）
+node_modules/
+# 打包后的静态文件
+dist/
+# 编辑器缓存
+.vscode/
+# 环境变量文件
+.env
+.env.local
+# 系统缓存文件
+.DS_Store
+Thumbs.db
